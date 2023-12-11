@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 '''
-	Asynchronous coroutine that takes in an integer argument named 
-    wait_random that waits for a random delay between 0 and max_delay 
+	Asynchronous coroutine that takes in an integer argument named
+    wait_random that waits for a random delay between 0 and max_delay
     seconds and eventually returns it
 '''
 import asyncio
